@@ -1,6 +1,6 @@
-workspace = { members = [ "io","pebbles-game-io"] }
+workspace = { members = ["io"] }
 [package]
-name = "martinYeung-gear-app"
+name = "pebbles-game-io"
 version = "0.1.0"
 edition = "2021"
 
